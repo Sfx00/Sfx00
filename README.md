@@ -1,6 +1,12 @@
 
-<img align="left" width="47%" src= "https://github-readme-stats.vercel.app/api?username=Sfx00&show_icons=true&theme=radical" />
-<img align="left" width="47%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sfx00&theme=react" />
+<img align="left" width="45%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sfx00&amp;theme=react" style="max-width: 100%;">
+
+<img align="left" width="45%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sfx00&theme=react" />
+
+
+
+
+
 
 <img align="left" alt="c" src= "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="left" alt="HTML5" src= "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
