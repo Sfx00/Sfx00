@@ -8,12 +8,6 @@
 
 
 
-## 📊My Stats:
-<img align="left" width="45%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sfx00&amp;theme=react" style="max-width: 100%;">
-
-<img align="left" width="45%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sfx00&theme=react" />
-
-
 
 
 
