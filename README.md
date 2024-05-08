@@ -8,6 +8,7 @@
 
 
 
+## ⚙Tech Stack:
 
 <img align="left" width="45%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sfx00&amp;theme=react" style="max-width: 100%;">
 
@@ -15,7 +16,6 @@
 
 
 
-## ⚙Tech Stack:
 <img align="left" alt="c" src= "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
 <img align="left" alt="HTML5" src= "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="left" alt="Lua" src= "https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" />
