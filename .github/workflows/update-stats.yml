@@ -3,16 +3,28 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
-    # runs at 11 PM UTC, which is 12 AM in Morocco
+    # Runs at 00:00 AM IST
     - cron: '0 23 * * *'
-
 
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
+    name: Update WakaReadme DevMetrics
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+      repository-projects: write
     steps:
-      - uses: actions/checkout@v2
-      - uses: athul/waka-readme@v0.5
+        # this action name
+      - uses: athul/waka-readme@master # do NOT replace with anything else
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
+          ### content
+          SHOW_TITLE: true 
+          SECTION_NAME: waka
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          TIME_RANGE: last_7_days
+          LANG_COUNT: 5
+          SHOW_TIME: true 
+          SHOW_TOTAL: true 
+          STOP_AT_OTHER: true 
