@@ -52,5 +52,5 @@ No activity tracked
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  ![Snake animation](https://github.com/0x157/0x157/blob/output/github-contribution-grid-snake-dark.svg)
+  ![Snake animation](https://github.com/Sfx00/Sfx00/blob/output/github-contribution-grid-snake-dark.svg)
 <hr/>
