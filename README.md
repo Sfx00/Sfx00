@@ -1,7 +1,10 @@
 ![Github readme banner](https://github.com/Harsh12Codes/Harsh12Codes/assets/83909388/cfc8e6ce-df39-49b4-8ce7-6f540b9bf34f)
 
 
+## 👋About Me:
 
+-🔭 Currently, I am working on improving my **Backend skills**.<br>- 🌱 I am currently learning **C++**.<br>- 👯 I am interested in collaborating on **open-source projects**.<br>- 💬 Feel free to ask me about **anything**.  I am always happy to **learn more**.<br>- 📫 You can reach me at oussamaba348@gmail.com.<br>- 😄 Pronouns: **He/Him**<br>- ⚡ Fun Fact: I love playing **video games**.<br><br>
+[![](https://visitcount.itsvg.in/api?id=harsh12codes&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
