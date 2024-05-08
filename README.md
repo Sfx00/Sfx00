@@ -4,7 +4,6 @@
 ## 👋About Me:
 
 -🔭 Currently, I am working on improving my **Backend skills**.<br>- 🌱 I am currently learning **C++**.<br>- 👯 I am interested in collaborating on **open-source projects**.<br>- 💬 Feel free to ask me about **anything**.  I am always happy to **learn more**.<br>- 📫 You can reach me at oussamaba348@gmail.com.<br>- 😄 Pronouns: **He/Him**<br>- ⚡ Fun Fact: I love playing **video games**.<br><br>
-[![](https://visitcount.itsvg.in/api?id=harsh12codes&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
