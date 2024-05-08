@@ -52,10 +52,5 @@ No activity tracked
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Sfx00/Sfx00/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
+  ![Snake animation](https://github.com/0x157/0x157/blob/output/github-contribution-grid-snake-dark.svg)
 <hr/>
