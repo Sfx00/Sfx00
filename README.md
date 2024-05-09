@@ -44,6 +44,13 @@ Python   2 mins          ⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
+<p align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Sfx00&theme=vue-dark&dates=979797&stroke=00000000&background=00000000&fire=fff&hide_border=true" />
+    </td>
+  </tr>
+</p>
 <div align="center">
   <div style="display: flex; justify-content: space-between;">
     <img width="390" src="https://github-readme-stats.vercel.app/api?username=Sfx00&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
