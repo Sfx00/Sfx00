@@ -5,7 +5,7 @@
 
 ## 👋About Me:
 
--🔭 Currently, I am working on improving my **Backend skills**.<br>- 🌱 I am currently learning **C++**.<br>- 👯 I am interested in collaborating on **open-source projects**.<br>- 💬 Feel free to ask me about **anything**.  I am always happy to **learn more**.<br>- 📫 You can reach me at oussamaba348@gmail.com.<br>- 😄 Pronouns: **He/Him**<br>- ⚡ Fun Fact: I love playing **video games**.<br><br>
+-🔭 Currently, I am working on improving my **Backend skills**.<br>- 🌱 I am currently learning **C++**.<br>- 👯 I am interested in collaborating on **open-source projects**.<br>- 💬 Feel free to ask me about **anything**.  I am always happy to **learn more**.<br>- 📫 You can reach me at oussamaba348@gmail.com.<br>- 😄 Pronouns: **He/Him**<br>- ⚡ Fun Fact: **The computer was born to solve problems that did not exist before**.<br><br>
 
 ## 📊Weekly Development Breakdown
 <!--START_SECTION:waka-->
@@ -65,3 +65,5 @@ Python   5 mins          ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   <h2>🐍 My Contributions 🐍</h2>
   <img alt="snake eating my contributions" src="https://github.com/Sfx00/Sfx00/blob/output/github-contribution-grid-snake-dark.svg" />
 <hr/>
+
+
