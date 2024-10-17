@@ -70,11 +70,8 @@ No activity tracked
 
 
  <div align="center">
-  <img height="200" src="https://media.giphy.com/media/nQjBzjxlx40nJXjmVF/giphy.gif" />
+  <img height="200" src="https://media.giphy.com/media/Rk2l6351L6jWGZr7WX/giphy.gif" />
 </div>
-
-
-
 
 
 
