@@ -67,11 +67,11 @@ No activity tracked
 <hr/>
 
 
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/lpgFASpT7Zsit8mSfg/giphy.gif" />
-</div>
 
- 
+
+ <div align="center">
+  <img height="200" src="https://media.giphy.com/media/nQjBzjxlx40nJXjmVF/giphy.gif" />
+</div>
 
 
 
