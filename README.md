@@ -68,15 +68,13 @@ No activity tracked
 
 
 <div align="center">
-  <img height="200" src="https://giphy.com/gifs/lpgFASpT7Zsit8mSfg"  />
+  <img height="200" src="https://remote-image.decentralized-content.com/image?url=https%3A%2F%2Fipfs.decentralized-content.com%2Fipfs%2FQmbj6VwZu1ufutYAmvpfVvSwudP71oVW1xnbtoMSoNX7mN&w=1920&q=75"  />
 </div>
-
-
 
 
  
 
-![3D Animation GIF](https://media.giphy.com/media/kTBqq6p9eoQfpvBceu/giphy.gif)
+
 
 
 
