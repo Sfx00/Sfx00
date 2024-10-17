@@ -72,7 +72,7 @@ No activity tracked
 </div>
 
 
-![Hacker GIF](https://media.giphy.com/media/lpgFASpT7Zsit8mSfg/giphy.gif)
+![Hacker GIF](content://media/external/downloads/1753)
 
  
 
