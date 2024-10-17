@@ -72,7 +72,12 @@ No activity tracked
 </div>
 
 
-![Hacker GIF](content://media/external/downloads/1753)
+
 
  
+
+![3D Animation GIF](https://media.giphy.com/media/kTBqq6p9eoQfpvBceu/giphy.gif)
+
+
+
 
