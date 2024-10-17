@@ -70,3 +70,9 @@ No activity tracked
 <div align="center">
   <img height="200" src="https://giphy.com/gifs/lpgFASpT7Zsit8mSfg"  />
 </div>
+
+
+![Hacker GIF](https://media.giphy.com/media/lpgFASpT7Zsit8mSfg/giphy.gif)
+
+ 
+
