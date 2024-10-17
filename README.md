@@ -68,9 +68,8 @@ No activity tracked
 
 
 <div align="center">
-  <img height="200" src="https://remote-image.decentralized-content.com/image?url=https%3A%2F%2Fipfs.decentralized-content.com%2Fipfs%2FQmbj6VwZu1ufutYAmvpfVvSwudP71oVW1xnbtoMSoNX7mN&w=1920&q=75"  />
+  <img height="200" src="https://media.giphy.com/media/lpgFASpT7Zsit8mSfg/giphy.gif" />
 </div>
-
 
  
 
