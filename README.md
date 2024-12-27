@@ -74,3 +74,9 @@ No activity tracked
 </div>
 
 
+  <p align="center">
+    Visitor count<br>
+    <img src="https://profile-counter.glitch.me/hassan-ettahiri/count.svg" />
+  </p>
+</div>
+
