@@ -5,7 +5,7 @@
 
 ## 👋About Me:
 
--🔭 Currently, I am working on improving my **Backend skills**.<br>- 🌱 I am currently learning **C++**.<br>- 👯 I am interested in collaborating on **open-source projects**.<br>- 💬 Feel free to ask me about **anything**.  I am always happy to **learn more**.<br>- 📫 You can reach me at oussamaba348@gmail.com.<br>- 😄 Pronouns: **He/Him**<br>- ⚡ Fun Fact: **The computer was born to solve problems that did not exist before**.<br><br>
+-🔭 Currently, I am working on improving my **Backend skills**.<br>- 🌱 I am currently learning **C++** and **Rust**.<br>- 👯 I am interested in collaborating on **open-source projects**.<br>- 💬 Feel free to ask me about **anything**.  I am always happy to **learn more**.<br>- 📫 You can reach me at oussamaba348@gmail.com.<br>- 😄 Pronouns: **He/Him**<br>- ⚡ Fun Fact: **The computer was born to solve problems that did not exist before**.<br><br>
 
 ## 📊Weekly Development Breakdown
 <!--START_SECTION:waka-->
